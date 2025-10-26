@@ -2,7 +2,7 @@
 
 <br>
 
-### Task 3: Perform A Basic Vulnerability Scan On Your PC
+### Task 3: Perform A Basic Vulnerability Scan On My PC
 
 <br>
 
@@ -71,7 +71,7 @@ To perform a basic vulnerability scan on my personal computer using a free tool 
 <br>
 ### Step-3: Reviewing The Report For Vulnerabilities And Severity <br>
 
-<br>&nbsp;<img width="317" height="532" alt="Screenshot 2025-10-25 180011" src="https://github.com/user-attachments/assets/bc7f762b-df38-4e64-a43e-7ed74f1a7150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="313" height="548" alt="Screenshot 2025-10-25 180048" src="https://github.com/user-attachments/assets/93f67ed6-6821-4a40-b4a7-fbf471fc1113" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="313" height="532" alt="Screenshot 2025-10-25 180120" src="https://github.com/user-attachments/assets/88a59cc7-5d8e-420d-be9e-9af798c03ced" /><br>
+<br><img width="317" height="532" alt="Screenshot 2025-10-25 180011" src="https://github.com/user-attachments/assets/bc7f762b-df38-4e64-a43e-7ed74f1a7150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="313" height="548" alt="Screenshot 2025-10-25 180048" src="https://github.com/user-attachments/assets/93f67ed6-6821-4a40-b4a7-fbf471fc1113" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="313" height="532" alt="Screenshot 2025-10-25 180120" src="https://github.com/user-attachments/assets/88a59cc7-5d8e-420d-be9e-9af798c03ced" /><br>
 <br>  <img width="1272" height="885" alt="Screenshot 2025-10-25 175434" src="https://github.com/user-attachments/assets/09e56f8f-a8a3-4ff9-a9e9-54f604654c96" />  <br>
 <br>  <img width="1275" height="285" alt="Screenshot 2025-10-25 175514" src="https://github.com/user-attachments/assets/c4b50ac1-a620-4482-a781-4b4769e1305d" />  <br>
 <br>
